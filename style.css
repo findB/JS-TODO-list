@@ -1,0 +1,30 @@
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 1em 0 0 0;
+    width: 20%;
+    
+}
+
+li{
+    border: 1px solid #ccc;
+    background-color: #eee;
+    padding: 5px 10px;
+    color: #000;
+    color: green;
+    margin-top: 5px;
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+.done{
+    text-decoration: line-through;
+    color: pink;
+    padding-left: 25px;
+}
+
+button{
+    margin-top: 25px;
+}
